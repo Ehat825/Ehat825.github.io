@@ -1,5 +1,4 @@
 # Ehat825.github.io
-<!doctype html>
 <html>
 <head>
 <title>Cs 1030 final</title>
@@ -22,6 +21,5 @@ I know that most large datasets are stored as Comma Separated Values and then im
 <p>I found the unit test pretty easy, it was just a summary of the first  three units. Since I’ve already taken probability and statistics I was familiar with most of this already. This course is a pretty good introduction to data science.
 </p>
 <body>
-Content goes here.
 </body>
 </html>
