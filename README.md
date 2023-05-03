@@ -20,7 +20,7 @@ I know that most large datasets are stored as Comma Separated Values and then im
 <h2>Unit test</h2>
 <p>I found the unit test pretty easy, it was just a summary of the first  three units. Since I’ve already taken probability and statistics I was familiar with most of this already. This course is a pretty good introduction to data science.
 </p>
-<h2> Data analysis <\h2>
+<h2> Data analysis </h2>
 
 <p> For data analysis I chose to use <a href =https://catalog.data.gov/dataset/fdic-failed-bank-list> this list of failed banks</a> found on Data.gov. For my question I chose "are more banks failing per year?" and the answer was a resounding no. I used google sheets to generate this chart, trying to get sheets to play nice with the original data was annoying, so I went through by hand and tallied how many banks had failed each year into a separate spreadsheet. As an aside, I find html pretty easy to use but my experience with LaTeX makes me keep using "\" instead of "/" to end environments. </p>
 </html>
