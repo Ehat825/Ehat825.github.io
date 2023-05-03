@@ -22,5 +22,5 @@ I know that most large datasets are stored as Comma Separated Values and then im
 </p>
 <h2> Data analysis </h2>
 
-<p> For data analysis I chose to use <a href ="https://catalog.data.gov/dataset/fdic-failed-bank-list"> this list of failed banks</a> found on Data.gov. For my question I chose "are more banks failing per year?" and the answer was a resounding no.<br> <img src="Bank closures vs. Year.png"> </p> <p>I used google sheets to generate this chart, trying to get sheets to play nice with the original data was annoying, so I went through by hand and tallied how many banks had failed each year into a separate spreadsheet.  </p>
+<p> For data analysis I chose to use <a href ="https://catalog.data.gov/dataset/fdic-failed-bank-list"> this list of failed banks</a> found on Data.gov. For my question I chose "Is the number of bank failures per year increasing?" and the answer was a resounding no.<br> <img src="Bank closures vs. Year.png"> </p> <p>I used google sheets to generate this chart, trying to get sheets to play nice with the original data was annoying, so I went through by hand and tallied how many banks had failed each year into a separate spreadsheet.  </p>
 </html>
