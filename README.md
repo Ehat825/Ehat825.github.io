@@ -25,6 +25,6 @@ I know that most large datasets are stored as Comma Separated Values and then im
 <p> For data analysis I chose to use <a href ="https://catalog.data.gov/dataset/fdic-failed-bank-list"> this list of failed banks</a> found on Data.gov. For my question I chose "Is the number of bank failures per year increasing?" and the answer was a resounding no.<br> <img src="Bank closures vs. Year.png"> </p> <p>I used google sheets to generate this chart, trying to get sheets to play nice with the original data was annoying, so I went through by hand and tallied how many banks had failed each year into a separate spreadsheet. My assesment that "no, bank closures haven't been increasing" is accurate at the moment, but, from looking at the news, it mahy not be by the end of 2023. </p>
 <h2>Second Question</h2>
 <p>I wanted to find out which state had the most bank closures, similar to the last problem the way the data was formatted made this annoying, so I sorted the spreadsheet by state and tallied them by hand. 
-<img src= "Percentage of Bank closures by state.png" </p>
+<img src= "Percentage of Bank closures by state.png" </p> <br>
 I'm surprised because I thought it was going to be Florida or some state in New England, but it was Georgia.
 </html>
